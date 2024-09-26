@@ -24,3 +24,5 @@ data
 .jekyll-cache
 _site
 .vscode
+
+*.ipynb filter=jupyternotebook
